@@ -1,0 +1,5 @@
+
+> iot-wifi-dashboard-backend@1.0.0 start
+> node server.js
+
+IoT WiFi dashboard backend running on http://0.0.0.0:3000 - Accessible at http://192.168.1.90:3000

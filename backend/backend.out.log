@@ -1,0 +1,118 @@
+
+> iot-wifi-dashboard-backend@1.0.0 start
+> node server.js
+
+IoT WiFi dashboard backend running on http://0.0.0.0:3000
+Accessible URLs: http://10.154.228.144:3000
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 18 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 18 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 12 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 18 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 19 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 21 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 18 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 20 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 19 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 22 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 20 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 21 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 19 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 19 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 13 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 14 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 17 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 15 networks from 10.154.228.126
+📡 POST /data request received from: 10.154.228.126
+✅ Stored 16 networks from 10.154.228.126
